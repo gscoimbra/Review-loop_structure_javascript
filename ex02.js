@@ -1,4 +1,4 @@
-const numero = 29
+const numero = 29 // coloque o número aqui
 
 if (numero <= 1) {
     console.log("Não é primo")
